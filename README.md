@@ -1,5 +1,5 @@
-# Bike_Sharing_Assignment
-This a solution of bike sharing assignment using multiple linear regression.
+# Bike_Sharing_Demand
+Bike sharing demand using multiple linear regression.
 <br><br>
 # Problem Statement
 <br><br>
